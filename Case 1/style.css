@@ -1,0 +1,21 @@
+.container{
+    margin: 60px;
+    border: 3px solid blue;
+    height : 200px;
+    width: 450px;
+padding-left: 30px;
+    box-shadow: 0 20px red;
+   
+}
+
+h3{
+color: blue;
+font-size: 30px;
+}
+
+p{
+    color: blue;
+    padding-left: 40px;
+    font-size: 18px;
+    width: 350px;
+}
